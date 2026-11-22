@@ -6,7 +6,7 @@ tags: ["Tinkering", "Outdoorsing", "Denning"]
 
 # The Taxonomy of Tinkering
 
-![](../static/media/porch_bear.png)
+![](../static/media/porch-bear.png)
 
 ## Definitions
 
@@ -24,4 +24,4 @@ tags: ["Tinkering", "Outdoorsing", "Denning"]
 
 **How it all fits together**
 
-![](../static/media/taxonomy_of_tinkering.png)
+![](../static/media/taxonomy-of-tinkering.png)

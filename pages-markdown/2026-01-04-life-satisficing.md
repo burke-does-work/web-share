@@ -40,7 +40,7 @@ You can read the [Wikipedia page](https://en.wikipedia.org/wiki/Satisficing) to 
 
 Bringing the themes together:
 
-![Life satisficing](../static/media/life_satisficing.png)
+![Life satisficing](../static/media/life-satisficing.png)
 
 Life satisficing sets a threshold - "this is good enough" - and the optimization stops once it is hit.
 
